@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Coming Soon - Hosted @HostBreak.com</title>
+
+	<!-- EDIT META INFO -->
+	<meta name="Charset" content="UTF-8">
+    <meta name="keywords" content="web, website hosting, reseller, reseller hosting, shared hosting plans, reseller hosting plans, reseller shared hosting, reseller hosting packages, windows reseller hosting, website Design, Domain, Domain Registration" />
+	<meta name="description" content="Since 2001 HostBreak is providing affordable web hosting solutions. Offers VPS, Dedicated servers, cloud servers, domain names and much more." />	
+    <meta name="copyright" content="HostBreak">
+    <meta name="author" content="HostBreak.com">
+    <meta name="email" content="sales@hostbreak.com">
+    <meta name="Distribution" content="Global">
+    <meta name="Rating" content="General">
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="Revisit-after" content="1 Day">
+    <meta name="googlebot" content="[Follow]">
+	<meta name="robots" content="Index,Follow">
+	<link rel="profile" href="https://hostbreak.com/">
+    <link rel="canonical" href="https://hostbreak.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="http://themeatelier.net/site-templates/nilam/favicon.ico" type="image/x-icon">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+    <!-- Bootstrap Framework -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Responsive Stylesheet -->
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Color Scheme Stylesheet -->
+    <link rel="stylesheet" href="css/color-1.css">
+    
+    <!-- ==== HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries ==== -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+    <!-- Preloader Start -->
+    <div id="preloader" style="display: none;">
+        <div class="preloader--spinner"></div>
+    </div>
+    <!-- Preloader End -->
+    
+    <!-- Wrapper Start -->
+    <div class="wrapper">
+        <!-- Banner Section Start -->
+        <div class="banner--section style--1">
+            <!-- Banner Content Start -->
+            <div class="banner--content text-center bg-c--dark">
+                <div class="vc--parent">
+                    <div class="vc--child">
+                        <div class="container-fluid">
+                            <div class="title">
+                                <h1 class="h1 text-uppercase">Coming Soon</h1>
+
+                                <p class="tag">A Great <span>Website</span></p>
+                            </div>
+
+                            <div class="sub-title">
+                                <h2 class="h1">stay tuned</h2>
+                            </div>
+
+                            <div class="content">
+                                <p>The domain name is just registered by its owner and hosted on <a href="https://hostbreak.com">www.hostbreak.com</a>. If you're site owner, remove the index.html page and upload your own website data.</p>
+                            </div>
+
+                            <div class="info">
+							<br/>
+                                
+
+							<h4><strong>Website Owner Resources</strong></h4>
+       
+        <p><a href="https://portal.hostbreak.com/knowledgebase/16/Using-FTP-client.html">        
+        How to upload your website
+        </a>
+        </p>
+        
+		<p>
+		<a href="https://portal.hostbreak.com/knowledgebase/2037/How-to-Create-Email-Account-in-cPanel.html">        
+        Setting up Email Accounts in cPanel
+        </a>
+        </p>
+        <p>
+		<a href="https://portal.hostbreak.com/knowledgebase/2039/How-to-Access-your-Email-Account-from-cPanel-Webmail.html">        
+        Accessing Your Email/Webmail
+        </a>
+        </p>
+        <p>
+		<a href="https://portal.hostbreak.com/knowledgebase/105/How-to-configure-email-clients.html">        
+        How do I configure Outlook / Email Client for my E-Mail Accounts?
+        </a>
+        </p>
+        <p>
+		<a href="https://portal.hostbreak.com/knowledgebase/57/How-do-I-configure-the-IPhone-for-my-email-accounts.html">        
+        How do I configure the IPhone for my email accounts?
+		</a>
+		</p>
+		<p>Need help?<br/><i class="fa fa-envelope-o"></i>support@hostbreak.com
+		<br/><i class="fa fa-phone"></i>051 877-4678 / 0334 856-0160</p>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+            <!-- Banner Content End -->
+
+            <!-- Banner Form Start -->
+            <div class="banner--form bg--img" style="background-image: url(&quot;img/bg-v4.jpg&quot;);">
+			
+				
+                
+				<div class="vc--parent">
+                    <div class="vc--child">
+                        <div class="container-fluid">
+												
+							<div style="align-items: center; display: flex; justify-content: center; padding-bottom:35px">
+								<a href="https://hostbreak.com/"><img alt="HostBreak Web Hosting" src="css/logo.png"></a>                
+							
+							</div>
+						
+						<div class="title">
+                                <h1 class="h1 text-uppercase" style="margin: 0 auto;text-align: center;">Good Host Since 2001</h1>
+
+                                <p class="tag" style="margin: 0 auto;text-align: center;">
+								<a href="https://hostbreak.com/earn-money-online-in-pakistan">
+								Become Affiliate - Earn Money</a></p>
+                            </div>
+							
+									
+						   <form action="https://portal.hostbreak.com/cart.php?a=add&domain=register&currency=2" method="post" novalidate="novalidate">
+	
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                           <label>
+                                             <span>Find your Domain:</span>
+                                                
+                                            </label>
+                                        </div>
+                                    </div>
+									<div class="col-md-8">
+                                        <div class="form-group">
+                                           <label>                                            
+                                           <input type="text" name="query" placeholder="Enter domain name" class="form-control" required="" aria-required="true">
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <button type="submit" class="btn btn-block">Search Domain</button>
+                                    </div>
+                                </div>
+                            </form>
+							
+							
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Banner Form End -->
+        </div>
+        <!-- Banner Section End -->
+    </div>
+    <!-- Wrapper End -->
+
+    <!-- jQuery Library -->
+    <script src="css/jquery-3.2.1.min.js.download"></script>
+
+    <!-- Bootstrap Framework -->
+    <script src="css/bootstrap.min.js.download"></script>
+
+    <!-- Validation Plugin -->
+    <script src="css/jquery.validate.min.js.download"></script>
+
+    <!-- Color Switcher Plugin -->
+    <script src="css/color-switcher.min.js.download"></script>
+
+    <!-- Main Script -->
+    <script src="css/main.js.download"></script>
+
+</body></html>
